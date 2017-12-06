@@ -1,0 +1,50 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>English Learning</title>
+    <!--<link href="App_Themes/Admin/css/style.css" rel="stylesheet" />-->
+    <link href="../App_Themes/Admin/css/fixAllMem.css" rel="stylesheet" />
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+
+
+    <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+                <div class="border">
+                    <div id="bg">
+                        background
+                    </div>
+                    <div class="page">
+                        <div class="sidebar">
+                            <!--
+                                <a href="HomePage.aspx"" id="logo">
+                                <img src="App_Themes/Admin/images/logo5.jpg" alt="Alternate Text" /></a>
+                            !-->
+                            <ul>
+                                <li class="selected"><a href="HomePage.aspx">Home</a> </li>
+                                <li><a href="ProfileManage.aspx">Profile</a> </li>
+                                <li><a href="AllTest.aspx">Test</a> </li>
+                                <li><a href="HighScore.aspx">leaderboard</a> </li>
+                                <li><a href="AllMembers.aspx">Members List</a> </li>
+                            </ul>
+                        </div>
+                        <div class="body">
+                            <div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+
+</html>

@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DAO\bin\Debug\DAO.dll
+C:\Users\Admin\Desktop\DAO\bin\Debug\DAO.pdb
+C:\Users\Admin\Desktop\DAO\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\DAO\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\DAO\obj\Debug\DAO.dll
+C:\Users\Admin\Desktop\DAO\obj\Debug\DAO.pdb
+D:\Subjects\C#\Project\English\DAO\bin\Debug\DAO.dll
+D:\Subjects\C#\Project\English\DAO\bin\Debug\DAO.pdb
+D:\Subjects\C#\Project\English\DAO\bin\Debug\DTO.dll
+D:\Subjects\C#\Project\English\DAO\bin\Debug\DTO.pdb
+D:\Subjects\C#\Project\English\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\Subjects\C#\Project\English\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Subjects\C#\Project\English\DAO\obj\Debug\DAO.dll
+D:\Subjects\C#\Project\English\DAO\obj\Debug\DAO.pdb
